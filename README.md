@@ -1,4 +1,4 @@
-![Instacart Project Cover](https://raw.githubusercontent.com/derikpetiz/Instacart/main/cover.png)
+![Instacart Project Cover](instacart.jpg)
 # 🛒 Instacart Order Analysis: Análise de Comportamento de Consumo
 
 ## 📌 Contexto & Objetivo
