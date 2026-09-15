@@ -1,4 +1,4 @@
-![Instacart Project Cover](instacart.png)
+[Instacart Project Cover](instacart.png)
 # 🛒 Instacart Order Analysis: Análise de Comportamento de Consumo
 
 ## 📌 Contexto & Objetivo
