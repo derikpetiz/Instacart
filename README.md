@@ -55,5 +55,6 @@ A Instacart é uma plataforma de entrega de supermercado. O objetivo deste proje
 ---
 
 ## 🚀 Como Executar o Projeto
-1. Clone o repositório: `git clone https.github.com/derikpetiz/Instacart.git`
-2. Abra e execute o notebook `Instacart.ipynb` em seu ambiente Jupyter ou Google Colab.
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/derikpetiz/Instacart.git](https://github.com/derikpetiz/Instacart.git)
